@@ -3,7 +3,8 @@ Estudante do 4º período do curso de Sistema de Informação (CESMAC) <img src=
 Amante do mundo da programação 👨🏼‍💻. <br>
 
 <div class="Stats">
-[![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=josesfjunior)](https://github.com/anuraghazra/github-readme-stats)
+[![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=josesfjunior&hide=contribs,prs)
+
 
 </div>  
 
