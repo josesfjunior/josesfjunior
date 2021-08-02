@@ -3,7 +3,9 @@ Estudante do 4º período do curso de Sistema de Informação (CESMAC) <img src=
 Amante do mundo da programação 👨🏼‍💻. <br>
 
 <div class="Stats">
-[![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=josesfjunior&hide=contribs,prs)
+ <a href="https://github.com/josesfjunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josesfjunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesfjunior&layout=compact&langs_count=7&theme=dracula"/>
 
 
 </div>  
