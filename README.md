@@ -1,4 +1,4 @@
-# Oieee!, eu sou o José Júnior e sou um desenvolvedor Back-end 😁
+# Oie!, eu sou o José Júnior e sou um estudante de programação 😁
 Estudante do 4º período do curso de Sistema de Informação (CESMAC) <img src="https://img.icons8.com/office/16/000000/student-male--v1.png"/>.<br>
 Amante do mundo da programação 👨🏼‍💻. <br>
 
