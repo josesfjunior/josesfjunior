@@ -24,4 +24,5 @@ Amante do mundo da programação 👨🏼‍💻. <br>
  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+ <img src="https://img.icons8.com/fluency/48/000000/mana.png"/>
 </div>
