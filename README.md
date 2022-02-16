@@ -1,13 +1,11 @@
-# Oie!, eu sou o José Júnior e sou um estudante de programação 😁
-Estudante do 4º período do curso de Sistema de Informação (CESMAC) <img src="https://img.icons8.com/office/16/000000/student-male--v1.png"/>.<br>
+# Oie!, eu sou o José Júnior e sou desenvolvedor full-stack  😁
+Estudante do 5º período do curso de Sistema de Informação (CESMAC) <img src="https://img.icons8.com/office/16/000000/student-male--v1.png"/>.<br>
 Amante do mundo da programação 👨🏼‍💻. <br>
 
 <div class="Stats">
  <a href="https://github.com/josesfjunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josesfjunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesfjunior&layout=compact&langs_count=7&theme=tokyonight"/>
-
-
 </div>  
 
 
