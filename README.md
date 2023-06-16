@@ -1,6 +1,7 @@
 # Oie!, eu sou o José Júnior e sou desenvolvedor full-stack  😁
-Estudante do 5º período do curso de Sistema de Informação (CESMAC) <img src="https://img.icons8.com/office/16/000000/student-male--v1.png"/>.<br>
+Analista e Desenvolvedor de sistemas <img src="https://img.icons8.com/office/16/000000/student-male--v1.png"/>.<br>
 Amante do mundo da programação 👨🏼‍💻. <br>
+Atualmente estudando desenvolvimento mobile para IOS com SwiftUi
 
 <div class="Stats">
  <a href="https://github.com/josesfjunior">
