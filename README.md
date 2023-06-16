@@ -1,4 +1,4 @@
-![image](https://github.com/josesfjunior/josesfjunior/assets/72272209/4f16ec1f-411b-4c7f-9c84-dcd699b3ae0c)# Oie!, eu sou o José Júnior e sou desenvolvedor full-stack  😁
+# Oie!, eu sou o José Júnior e sou desenvolvedor full-stack  😁
 Analista e Desenvolvedor de sistemas <img src="https://img.icons8.com/office/16/000000/student-male--v1.png"/>.<br>
 Amante do mundo da programação 👨🏼‍💻. <br>
 Atualmente estudando desenvolvimento mobile para IOS com SwiftUi
