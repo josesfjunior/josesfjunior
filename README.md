@@ -14,7 +14,7 @@ Atualmente estudando desenvolvimento mobile para IOS com SwiftUi
 <div class="Icons">
  <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
  <img src="https://img.icons8.com/fluency/48/000000/mana.png"/>
- <img style="width: 48px; heigth: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+ <img style="width: 48px; heigth: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg />
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
