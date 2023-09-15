@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **IOS Development**
 
-- 💬 Ask me about **SwifitUI and Elix**
+- 💬 Ask me about **SwifitUI and Elixr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
