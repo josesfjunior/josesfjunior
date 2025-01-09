@@ -10,7 +10,7 @@
 ### 🛠️ About Me
 - 🔭 Full Stack Developer at **Brate** since 2021
 - 🌱 Currently enhancing my skills in **backend architecture and distributed systems**
-- 💬 Ask me about **Elixir, Phoenix, C/C++, and building resilient APIs**
+- 💬 Ask me about **Elixir, Phoenix, and building resilient APIs**
 
 ---
 
